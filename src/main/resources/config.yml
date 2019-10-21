@@ -1,0 +1,9 @@
+prevent-explode: true
+
+## 로그 ON/OFF
+save-chatlog: true
+save-cmdlog: true
+save-drop-item-log-op: true
+save-drop-item-log-user: false
+save-playerjoin-log: true
+save-playerquit-log: true
