@@ -1,0 +1,7 @@
+name: AntiTerror
+main: iKguana.antiterror.AntiTerror
+version: "1.0.0"
+
+api: "1.0.0"
+
+auther: iKguana
